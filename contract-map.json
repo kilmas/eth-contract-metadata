@@ -1,18 +1,4 @@
 {
-  "0x75231f58b43240c9718dd58b4967c5114342a86c": {
-    "name": "OK OKB",
-    "logo": "https://cn.etherscan.com/token/images/okex_28.png",
-    "erc20": true,
-    "symbol": "OKB",
-    "decimals": 18
-  },
-  "0x1c48f86ae57291f7686349f12601910bd8d470bb": {
-    "name": "OK USDK",
-    "logo": "https://cn.etherscan.com/token/images/usdk_32.png",
-    "erc20": true,
-    "symbol": "USDK",
-    "decimals": 18
-  },
   "0x49d716DFe60b37379010A75329ae09428f17118d": {
     "name": "PoolTogether Dai",
     "logo": "pldai.svg",
